@@ -1,8 +1,4 @@
-/config.yaml
-/content
-/static/images
-.vscode
-
+*.svg
 ### Hugo ###
 # Generated files by hugo
 /public/
